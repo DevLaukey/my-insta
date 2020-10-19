@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    background-color: #ffffff;
+}
+
+.app_header {
+    background-color: #dd813fbe;
+    padding: 5px;
+    object-fit: contain;
+    border-bottom: 1px solid brown;
+}
+
+.app_headerimg {
+    height: 100px;
+    width: 100px;
+}
+
+.app_signup {
+    display: flex;
+    text-align: center;
+}
+
+
+/* jungle green #29ab87 */
+
+
+/* brown #8B4513 */
